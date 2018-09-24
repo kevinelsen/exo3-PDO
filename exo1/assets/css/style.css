@@ -1,0 +1,55 @@
+#bg1{
+    background-image: url(https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/05/04/15/the-muppets-2.jpg?w968);
+    background-size:  cover;
+    color: white;
+    font-family: 'Hanalei Fill', cursive;
+}
+#bg2{
+    background-image: url(https://pre00.deviantart.net/23ca/th/pre/f/2016/306/0/9/hackerman_by_shiiftyshift-dan31sc.png);
+    background-size:  cover;
+    color: white;
+    font-family: 'Notable', sans-serif;
+}
+#bg3{
+    background-image: url(http://dweebthepeople.com/wp-content/uploads/2015/12/9nkg2PZ.png);
+    background-size:  cover;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    
+}
+#bg4{
+    background-image: url(https://www.rue89strasbourg.com/wp-content/uploads/2015/01/anonymous-770x340.jpg);
+    background-size:  cover;
+    color: white;
+    font-family: 'Fredericka the Great', cursive;    
+}
+#bg5{
+    background-image: url(https://static.lexpress.fr/medias_959/w_640,h_360,c_fill,g_north/v1406728493/matthieu-chedid_491015.jpg);
+    background-size:  cover;
+    color: white;
+    font-family: 'Chicle', cursive;   
+}#bg6{
+    background-image: url(http://fr.jabiru-blog.info/wp-content/uploads/2012/07/cerf.jpg);
+    background-size:  cover;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+td, tr,th{
+    border-collapse:collapse;
+    border:3px solid white;
+}
+table{
+    text-align:center;
+}
+.firstTest, .secondTest{
+    background-color: inherit;
+    border-radius:30px;
+    margin-top:15px;
+    margin-bottom:15px;
+    padding:15px;
+}
+.bg-nav{
+    background-image: url(https://thumbs.gfycat.com/InnocentMerryBufflehead-small.gif);
+    background-size: cover;
+}
